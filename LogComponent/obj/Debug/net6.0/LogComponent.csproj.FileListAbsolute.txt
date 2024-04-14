@@ -1,0 +1,57 @@
+C:\Users\ssy\OneDrive - Kamstrup A S\Desktop\KodeTest\LogComponent\bin\Debug\net6.0\LogComponent.deps.json
+C:\Users\ssy\OneDrive - Kamstrup A S\Desktop\KodeTest\LogComponent\bin\Debug\net6.0\LogComponent.dll
+C:\Users\ssy\OneDrive - Kamstrup A S\Desktop\KodeTest\LogComponent\bin\Debug\net6.0\LogComponent.pdb
+C:\Users\ssy\OneDrive - Kamstrup A S\Desktop\KodeTest\LogComponent\obj\Debug\net6.0\LogComponent.csproj.AssemblyReference.cache
+C:\Users\ssy\OneDrive - Kamstrup A S\Desktop\KodeTest\LogComponent\obj\Debug\net6.0\LogComponent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssy\OneDrive - Kamstrup A S\Desktop\KodeTest\LogComponent\obj\Debug\net6.0\LogComponent.AssemblyInfoInputs.cache
+C:\Users\ssy\OneDrive - Kamstrup A S\Desktop\KodeTest\LogComponent\obj\Debug\net6.0\LogComponent.AssemblyInfo.cs
+C:\Users\ssy\OneDrive - Kamstrup A S\Desktop\KodeTest\LogComponent\obj\Debug\net6.0\LogComponent.csproj.CoreCompileInputs.cache
+C:\Users\ssy\OneDrive - Kamstrup A S\Desktop\KodeTest\LogComponent\obj\Debug\net6.0\LogComponent.dll
+C:\Users\ssy\OneDrive - Kamstrup A S\Desktop\KodeTest\LogComponent\obj\Debug\net6.0\refint\LogComponent.dll
+C:\Users\ssy\OneDrive - Kamstrup A S\Desktop\KodeTest\LogComponent\obj\Debug\net6.0\LogComponent.pdb
+C:\Users\ssy\OneDrive - Kamstrup A S\Desktop\KodeTest\LogComponent\obj\Debug\net6.0\ref\LogComponent.dll
+D:\KodeTest org\KodeTest org\LogComponent\bin\Debug\net6.0\LogComponent.deps.json
+D:\KodeTest org\KodeTest org\LogComponent\bin\Debug\net6.0\LogComponent.dll
+D:\KodeTest org\KodeTest org\LogComponent\bin\Debug\net6.0\LogComponent.pdb
+D:\KodeTest org\KodeTest org\LogComponent\obj\Debug\net6.0\LogComponent.GeneratedMSBuildEditorConfig.editorconfig
+D:\KodeTest org\KodeTest org\LogComponent\obj\Debug\net6.0\LogComponent.AssemblyInfoInputs.cache
+D:\KodeTest org\KodeTest org\LogComponent\obj\Debug\net6.0\LogComponent.AssemblyInfo.cs
+D:\KodeTest org\KodeTest org\LogComponent\obj\Debug\net6.0\LogComponent.csproj.CoreCompileInputs.cache
+D:\KodeTest org\KodeTest org\LogComponent\obj\Debug\net6.0\LogComponent.dll
+D:\KodeTest org\KodeTest org\LogComponent\obj\Debug\net6.0\refint\LogComponent.dll
+D:\KodeTest org\KodeTest org\LogComponent\obj\Debug\net6.0\LogComponent.pdb
+D:\KodeTest org\KodeTest org\LogComponent\obj\Debug\net6.0\ref\LogComponent.dll
+D:\LogComponent_latest\LogComponent\bin\Debug\net6.0\LogComponent.deps.json
+D:\LogComponent_latest\LogComponent\bin\Debug\net6.0\LogComponent.dll
+D:\LogComponent_latest\LogComponent\bin\Debug\net6.0\LogComponent.pdb
+D:\LogComponent_latest\LogComponent\obj\Debug\net6.0\LogComponent.GeneratedMSBuildEditorConfig.editorconfig
+D:\LogComponent_latest\LogComponent\obj\Debug\net6.0\LogComponent.AssemblyInfoInputs.cache
+D:\LogComponent_latest\LogComponent\obj\Debug\net6.0\LogComponent.AssemblyInfo.cs
+D:\LogComponent_latest\LogComponent\obj\Debug\net6.0\LogComponent.csproj.CoreCompileInputs.cache
+D:\LogComponent_latest\LogComponent\obj\Debug\net6.0\LogComponent.dll
+D:\LogComponent_latest\LogComponent\obj\Debug\net6.0\refint\LogComponent.dll
+D:\LogComponent_latest\LogComponent\obj\Debug\net6.0\LogComponent.pdb
+D:\LogComponent_latest\LogComponent\obj\Debug\net6.0\ref\LogComponent.dll
+C:\Users\rshevchuk\Downloads\Telegram Desktop\LogComponent_latest\LogComponent\bin\Debug\net6.0\LogComponent.deps.json
+C:\Users\rshevchuk\Downloads\Telegram Desktop\LogComponent_latest\LogComponent\bin\Debug\net6.0\LogComponent.dll
+C:\Users\rshevchuk\Downloads\Telegram Desktop\LogComponent_latest\LogComponent\bin\Debug\net6.0\LogComponent.pdb
+C:\Users\rshevchuk\Downloads\Telegram Desktop\LogComponent_latest\LogComponent\obj\Debug\net6.0\LogComponent.csproj.AssemblyReference.cache
+C:\Users\rshevchuk\Downloads\Telegram Desktop\LogComponent_latest\LogComponent\obj\Debug\net6.0\LogComponent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rshevchuk\Downloads\Telegram Desktop\LogComponent_latest\LogComponent\obj\Debug\net6.0\LogComponent.AssemblyInfoInputs.cache
+C:\Users\rshevchuk\Downloads\Telegram Desktop\LogComponent_latest\LogComponent\obj\Debug\net6.0\LogComponent.AssemblyInfo.cs
+C:\Users\rshevchuk\Downloads\Telegram Desktop\LogComponent_latest\LogComponent\obj\Debug\net6.0\LogComponent.csproj.CoreCompileInputs.cache
+C:\Users\rshevchuk\Downloads\Telegram Desktop\LogComponent_latest\LogComponent\obj\Debug\net6.0\LogComponent.dll
+C:\Users\rshevchuk\Downloads\Telegram Desktop\LogComponent_latest\LogComponent\obj\Debug\net6.0\refint\LogComponent.dll
+C:\Users\rshevchuk\Downloads\Telegram Desktop\LogComponent_latest\LogComponent\obj\Debug\net6.0\LogComponent.pdb
+C:\Users\rshevchuk\Downloads\Telegram Desktop\LogComponent_latest\LogComponent\obj\Debug\net6.0\ref\LogComponent.dll
+C:\Users\Sever\Downloads\LogComponent_latest\LogComponent_latest\LogComponent\bin\Debug\net6.0\LogComponent.deps.json
+C:\Users\Sever\Downloads\LogComponent_latest\LogComponent_latest\LogComponent\bin\Debug\net6.0\LogComponent.dll
+C:\Users\Sever\Downloads\LogComponent_latest\LogComponent_latest\LogComponent\bin\Debug\net6.0\LogComponent.pdb
+C:\Users\Sever\Downloads\LogComponent_latest\LogComponent_latest\LogComponent\obj\Debug\net6.0\LogComponent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sever\Downloads\LogComponent_latest\LogComponent_latest\LogComponent\obj\Debug\net6.0\LogComponent.AssemblyInfoInputs.cache
+C:\Users\Sever\Downloads\LogComponent_latest\LogComponent_latest\LogComponent\obj\Debug\net6.0\LogComponent.AssemblyInfo.cs
+C:\Users\Sever\Downloads\LogComponent_latest\LogComponent_latest\LogComponent\obj\Debug\net6.0\LogComponent.csproj.CoreCompileInputs.cache
+C:\Users\Sever\Downloads\LogComponent_latest\LogComponent_latest\LogComponent\obj\Debug\net6.0\LogComponent.dll
+C:\Users\Sever\Downloads\LogComponent_latest\LogComponent_latest\LogComponent\obj\Debug\net6.0\refint\LogComponent.dll
+C:\Users\Sever\Downloads\LogComponent_latest\LogComponent_latest\LogComponent\obj\Debug\net6.0\LogComponent.pdb
+C:\Users\Sever\Downloads\LogComponent_latest\LogComponent_latest\LogComponent\obj\Debug\net6.0\ref\LogComponent.dll

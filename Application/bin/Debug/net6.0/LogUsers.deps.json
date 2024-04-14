@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LogUsers/1.0.0": {
+        "dependencies": {
+          "LogComponent": "1.0.0"
+        },
+        "runtime": {
+          "LogUsers.dll": {}
+        }
+      },
+      "LogComponent/1.0.0": {
+        "runtime": {
+          "LogComponent.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LogUsers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogComponent/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
