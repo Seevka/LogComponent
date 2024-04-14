@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ya20g7b/ow5uLMhYHKBdL8Yfj0mc/KFpCLd6w/auUu1s7Kw9jhP1IZuRMcD1zfA/MWhaDHikv8ngRv1Wix1Xjg==",
+  "dgSpecHash": "j6tnhzfqopQhDW2tRC+XB+FOVIsrJa0EyTe9JYVAdeaEkd2QLztsdPRgAmMUNBOIJ5F7+wjCZEjYzZMJiSKxMg==",
   "success": true,
-  "projectFilePath": "D:\\VSProjects\\LogComponent_latest\\LogTests\\LogTests.csproj",
+  "projectFilePath": "D:\\VSProjects\\LogComponent\\LogTests\\LogTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sever\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\Sever\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",

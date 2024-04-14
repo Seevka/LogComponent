@@ -1143,11 +1143,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VSProjects\\LogComponent_latest\\LogTests\\LogTests.csproj",
+      "projectUniqueName": "D:\\VSProjects\\LogComponent\\LogTests\\LogTests.csproj",
       "projectName": "LogTests",
-      "projectPath": "D:\\VSProjects\\LogComponent_latest\\LogTests\\LogTests.csproj",
+      "projectPath": "D:\\VSProjects\\LogComponent\\LogTests\\LogTests.csproj",
       "packagesPath": "C:\\Users\\Sever\\.nuget\\packages\\",
-      "outputPath": "D:\\VSProjects\\LogComponent_latest\\LogTests\\obj\\",
+      "outputPath": "D:\\VSProjects\\LogComponent\\LogTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sever\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1164,8 +1164,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\VSProjects\\LogComponent_latest\\LogComponent\\LogComponent.csproj": {
-              "projectPath": "D:\\VSProjects\\LogComponent_latest\\LogComponent\\LogComponent.csproj"
+            "D:\\VSProjects\\LogComponent\\LogComponent\\LogComponent.csproj": {
+              "projectPath": "D:\\VSProjects\\LogComponent\\LogComponent\\LogComponent.csproj"
             }
           }
         }
