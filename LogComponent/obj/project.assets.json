@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VSProjects\\LogComponent\\LogComponent\\LogComponent.csproj",
+      "projectUniqueName": "D:\\VSFromGitProjects\\LogComponent\\LogComponent\\LogComponent.csproj",
       "projectName": "LogComponent",
-      "projectPath": "D:\\VSProjects\\LogComponent\\LogComponent\\LogComponent.csproj",
+      "projectPath": "D:\\VSFromGitProjects\\LogComponent\\LogComponent\\LogComponent.csproj",
       "packagesPath": "C:\\Users\\Sever\\.nuget\\packages\\",
-      "outputPath": "D:\\VSProjects\\LogComponent\\LogComponent\\obj\\",
+      "outputPath": "D:\\VSFromGitProjects\\LogComponent\\LogComponent\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sever\\AppData\\Roaming\\NuGet\\NuGet.Config",

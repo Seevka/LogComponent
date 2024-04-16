@@ -55,3 +55,15 @@ C:\Users\Sever\Downloads\LogComponent_latest\LogComponent_latest\LogComponent\ob
 C:\Users\Sever\Downloads\LogComponent_latest\LogComponent_latest\LogComponent\obj\Debug\net6.0\refint\LogComponent.dll
 C:\Users\Sever\Downloads\LogComponent_latest\LogComponent_latest\LogComponent\obj\Debug\net6.0\LogComponent.pdb
 C:\Users\Sever\Downloads\LogComponent_latest\LogComponent_latest\LogComponent\obj\Debug\net6.0\ref\LogComponent.dll
+D:\VSFromGitProjects\LogComponent\LogComponent\bin\Debug\net6.0\LogComponent.deps.json
+D:\VSFromGitProjects\LogComponent\LogComponent\bin\Debug\net6.0\LogComponent.dll
+D:\VSFromGitProjects\LogComponent\LogComponent\bin\Debug\net6.0\LogComponent.pdb
+D:\VSFromGitProjects\LogComponent\LogComponent\obj\Debug\net6.0\LogComponent.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSFromGitProjects\LogComponent\LogComponent\obj\Debug\net6.0\LogComponent.AssemblyInfoInputs.cache
+D:\VSFromGitProjects\LogComponent\LogComponent\obj\Debug\net6.0\LogComponent.AssemblyInfo.cs
+D:\VSFromGitProjects\LogComponent\LogComponent\obj\Debug\net6.0\LogComponent.csproj.CoreCompileInputs.cache
+D:\VSFromGitProjects\LogComponent\LogComponent\obj\Debug\net6.0\LogComponent.sourcelink.json
+D:\VSFromGitProjects\LogComponent\LogComponent\obj\Debug\net6.0\LogComponent.dll
+D:\VSFromGitProjects\LogComponent\LogComponent\obj\Debug\net6.0\refint\LogComponent.dll
+D:\VSFromGitProjects\LogComponent\LogComponent\obj\Debug\net6.0\LogComponent.pdb
+D:\VSFromGitProjects\LogComponent\LogComponent\obj\Debug\net6.0\ref\LogComponent.dll

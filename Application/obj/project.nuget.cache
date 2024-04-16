@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EbFqNG9qBFFQDIxXjCWg/tn7bHowAcpX7P0RpGSyxXluh73awM3LuWBThFauO7FqmJE3Piq+WmXIgoBSSumDqQ==",
+  "dgSpecHash": "mAUC9sfI2zIg9+QFhYKwREKdwR+VHvx3wk5+GB8191ov4oN/eCMsz2ZD+pXNvPwEbWinMZu1PbQdD1DCBcqz4w==",
   "success": true,
-  "projectFilePath": "D:\\VSProjects\\LogComponent\\Application\\Application.csproj",
+  "projectFilePath": "D:\\VSFromGitProjects\\LogComponent\\Application\\Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

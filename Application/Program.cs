@@ -15,7 +15,7 @@ namespace LogUsers
         private static async Task NumberFlushAsync()
         {
             ILogger asyncLogger = new AsyncLogger(
-                new DefaultDirectoryInfo(@"C:\LogTask\Log"),
+                new DefaultDirectoryInfo(@"D:\VSFromGitProjects\LogComponent\"),
                 new SysClock());
 
             for (var i = 0; i < 15; i++)
@@ -30,7 +30,7 @@ namespace LogUsers
         private static async Task NumberNoFlushAsync()
         {
             ILogger asyncLogger = new AsyncLogger(
-                new DefaultDirectoryInfo(@"C:\LogTask\Log"),
+                new DefaultDirectoryInfo(@"D:\VSFromGitProjects\LogComponent\"),
                 new SysClock());
 
             for (var i = 50; i > 0; i--)

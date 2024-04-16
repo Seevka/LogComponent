@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VSProjects\\LogComponent\\Application\\Application.csproj": {}
+    "D:\\VSFromGitProjects\\LogComponent\\Application\\Application.csproj": {}
   },
   "projects": {
-    "D:\\VSProjects\\LogComponent\\Application\\Application.csproj": {
+    "D:\\VSFromGitProjects\\LogComponent\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VSProjects\\LogComponent\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\VSFromGitProjects\\LogComponent\\Application\\Application.csproj",
         "projectName": "LogUsers",
-        "projectPath": "D:\\VSProjects\\LogComponent\\Application\\Application.csproj",
+        "projectPath": "D:\\VSFromGitProjects\\LogComponent\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Sever\\.nuget\\packages\\",
-        "outputPath": "D:\\VSProjects\\LogComponent\\Application\\obj\\",
+        "outputPath": "D:\\VSFromGitProjects\\LogComponent\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sever\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\VSProjects\\LogComponent\\LogComponent\\LogComponent.csproj": {
-                "projectPath": "D:\\VSProjects\\LogComponent\\LogComponent\\LogComponent.csproj"
+              "D:\\VSFromGitProjects\\LogComponent\\LogComponent\\LogComponent.csproj": {
+                "projectPath": "D:\\VSFromGitProjects\\LogComponent\\LogComponent\\LogComponent.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "D:\\VSProjects\\LogComponent\\LogComponent\\LogComponent.csproj": {
+    "D:\\VSFromGitProjects\\LogComponent\\LogComponent\\LogComponent.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VSProjects\\LogComponent\\LogComponent\\LogComponent.csproj",
+        "projectUniqueName": "D:\\VSFromGitProjects\\LogComponent\\LogComponent\\LogComponent.csproj",
         "projectName": "LogComponent",
-        "projectPath": "D:\\VSProjects\\LogComponent\\LogComponent\\LogComponent.csproj",
+        "projectPath": "D:\\VSFromGitProjects\\LogComponent\\LogComponent\\LogComponent.csproj",
         "packagesPath": "C:\\Users\\Sever\\.nuget\\packages\\",
-        "outputPath": "D:\\VSProjects\\LogComponent\\LogComponent\\obj\\",
+        "outputPath": "D:\\VSFromGitProjects\\LogComponent\\LogComponent\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sever\\AppData\\Roaming\\NuGet\\NuGet.Config",

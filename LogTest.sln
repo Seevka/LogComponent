@@ -12,7 +12,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogComponent", "LogComponent\LogComponent.csproj", "{DB3CCCC4-1BD9-4086-BEB5-EE0D3BF62D11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogTests", "LogTests\LogTests.csproj", "{E188D8FF-E424-439E-82A3-ACBDB759845A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogTests", "LogTests\LogTests.csproj", "{E188D8FF-E424-439E-82A3-ACBDB759845A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OldLogTests", "OldLogTests\OldLogTests.csproj", "{3BEEB27C-93C8-4A61-8145-ECE3AA573602}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -32,6 +34,10 @@ Global
 		{E188D8FF-E424-439E-82A3-ACBDB759845A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E188D8FF-E424-439E-82A3-ACBDB759845A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E188D8FF-E424-439E-82A3-ACBDB759845A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BEEB27C-93C8-4A61-8145-ECE3AA573602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BEEB27C-93C8-4A61-8145-ECE3AA573602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BEEB27C-93C8-4A61-8145-ECE3AA573602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BEEB27C-93C8-4A61-8145-ECE3AA573602}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
