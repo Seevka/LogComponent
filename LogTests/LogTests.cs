@@ -36,18 +36,21 @@ namespace LogComponent.Tests
         [Test]
         public async Task LogAsync_CreatesNewFileAfterMidnight()
         {
+            // Arrange
             DateTime justBeforeMidnight = new DateTime(2023, 4, 10, 23, 59, 50);
             DateTime justAfterMidnight = justBeforeMidnight.AddDays(1).Date;
             _mockSysClock.SetupSequence(m => m.Now)
                          .Returns(justBeforeMidnight)
                          .Returns(justAfterMidnight);
 
+            // Act
             await _logger.LogAsync("Final message of the day");
             await Task.Delay(1000);
             _mockSysClock.Setup(m => m.Now).Returns(justAfterMidnight);
             await _logger.LogAsync("First message of the new day");
             await _logger.CloseWithFlushAsync();
 
+            // Assert
             string expectedNewDayFileName = $"{justAfterMidnight:yyyy-MM-dd}.log";
             string expectedNewDayFilePath = Path.Combine(_tempDirectory, expectedNewDayFileName);
             Assert.IsTrue(File.Exists(expectedNewDayFilePath), "Log file for new day was not created.");
@@ -56,14 +59,17 @@ namespace LogComponent.Tests
         [Test]
         public async Task LogAsync_WritesMessage()
         {
+            // Arrange
             string expectedMessage = "Test message";
             string expectedFileName = $"{DateTime.UtcNow:yyyy-MM-dd}.log";
             string expectedFilePath = Path.Combine(_tempDirectory, expectedFileName);
 
+            // Act
             await _logger.LogAsync(expectedMessage);
             await Task.Delay(1000);
             await _logger.CloseWithFlushAsync();
 
+            // Assert
             Assert.IsTrue(File.Exists(expectedFilePath), "Log file was not created.");
             string logContents = File.ReadAllText(expectedFilePath);
             Assert.IsTrue(logContents.Contains(expectedMessage), "The message was not logged as expected.");
@@ -72,10 +78,12 @@ namespace LogComponent.Tests
         [Test]
         public async Task CloseWithFlushAsync_ShouldFinishWritingOutstandingLogs()
         {
+            // Act
             await _logger.LogAsync("Message 1");
             await _logger.LogAsync("Message 2");
             await _logger.CloseWithFlushAsync();
 
+            // Assert
             string expectedFileName = $"{DateTime.UtcNow:yyyy-MM-dd}.log";
             string expectedFilePath = Path.Combine(_tempDirectory, expectedFileName);
             Assert.IsTrue(File.Exists(expectedFilePath), "Log file was not created.");
@@ -88,10 +96,13 @@ namespace LogComponent.Tests
         [Test]
         public async Task CloseAsync_ShouldStopWithoutWritingOutstandingLogs()
         {
+            // Act
             await _logger.LogAsync("Message 1");
             await _logger.LogAsync("Should not be logged");
             await _logger.CloseAsync();
             await Task.Delay(1000);
+
+            // Assert
             string expectedFileName = $"{DateTime.UtcNow:yyyy-MM-dd}.log";
             string expectedFilePath = Path.Combine(_tempDirectory, expectedFileName);
             Assert.IsTrue(File.Exists(expectedFilePath), "Log file was not created.");
